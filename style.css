@@ -1,8 +1,15 @@
 *{text-align: center;}
-header{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size: 30px;color: white;}
+header{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size: 30px;color: white;
+background-color: black;
+}
 .fondo{background-image: url(a1fd204bff5e5fa57f1b75b6077f5824.gif);
 position: relative;
 overflow: hidden;
 width: 1450px;
 height: 800px;
 background-size: 1470px;}
+h1{background-color: black;
+border-style: solid;width: 200px;
+height: 60px;
+margin: 0% auto;color: white;}
+h1:hover{color: cyan;}
