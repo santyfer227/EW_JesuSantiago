@@ -1,0 +1,39 @@
+.caja{ display: flex;padding-top: 200px ;}
+.box1{width: 160px;height: 160px;
+background: orange; 
+flex-grow: 2;}
+.box2{width:160px ;height: 160px;background-color: yellow;
+flex-grow: 2}
+.box3{flex-grow: ;
+    width: 160px;
+    height: 160px;
+    background-color: cyan;
+}
+.box4{width:160px ;flex-grow: 2;
+height: 160px;
+background-color: blue;
+}
+.box5{flex-grow: 2;
+    width: 160px;
+height: 160px;
+background-color: darkblue;}
+.box6{flex-grow: 2;
+    width: 160px;
+height: 160px;
+background-color: midnightblue;}
+.links{justify-content: center;
+display: flex;
+flex-direction: row;
+margin-top: 20px;}
+a{padding-left: 20px;color: chartreuse;}
+a:hover{color: red;}
+.c{text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 50px;
+margin-top: 30px;
+}
+.a{text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+margin-top: 15px;
+}
