@@ -11,5 +11,6 @@ background-size: 1470px;}
 h1{background-color: black;
 border-style: solid;width: 200px;
 height: 60px;
-margin: 0% auto;color: white;}
-h1:hover{color: cyan;}
+margin: 0% auto;color:}
+a{color: white;}
+a:hover{color: cyan;}
